@@ -6,7 +6,8 @@ Repositório do 2º defafio da turma 09 do explorer, o objetivo era debugar o c�
 
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project">Project</a>
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#layout">Layout</a>
 </p>
 
 <br>
@@ -36,6 +37,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 O projeto consiste em uma página que cria treinos personalizados.
 
 - [Visite o projeto online](https://corrigindobugs02explorer-raulrodmo.netlify.app/)
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ---
 
